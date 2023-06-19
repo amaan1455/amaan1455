@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mohd Amaan Alam</h1>
 <h3 align="center">Computer Science and Engineering from LNCTE Bhopal (2020-2024)</h3>
 
-- 📝 Linkedin Profile [www.linkedin.com/in/amaan14/](https://www.linkedin.com/in/amaan14/)
+- 📝 Linkedin Profile [linkedin.com/in/amaan14/](https://www.linkedin.com/in/amaan14/)
 
 - 📄 My Resume [Click Here](https://1drv.ms/b/s!AhMUdKh21_6Qll22jySbaPiM1MlX?e=9Pf7g4)
 
-- 📫 Reach me at **[amaan14alam@gmail.com](amaan14alam@gmail.com)**
+- 📫 Reach me at amaan14alam@gmail.com
 
-- 🔭 Project 1 PHP | MYSQL | CSS | HTML [Student Term Work Management Web App](termwork.000webhostapp.com)
+- 🔭 Project 1 PHP | MYSQL | CSS | HTML [Student Term Work Management Web App](https://termwork.000webhostapp.com)
 
 - 🔭 Project 2 Spring | MYSQL | React | HTML CSS **Contact Manager Web App**
 
-- 📝 Leetcode Profile **leetcode.com/amaan1455/**
+- 📝 Leetcode Profile [leetcode.com/amaan1455](https://www.leetcode.com/amaan1455/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
