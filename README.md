@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Amaan Alam</h1>
 <h3 align="center">Computer Science and Engineering from LNCTE Bhopal (2020-2024)</h3>
 
-- 📝 Linkedin Profile [www.linkedin.com/in/amaan14/](www.linkedin.com/in/amaan14/)
+- 📝 Linkedin Profile [www.linkedin.com/in/amaan14/](https://www.linkedin.com/in/amaan14/)
 
 - 📄 My Resume [Click Here](https://1drv.ms/b/s!AhMUdKh21_6Qll22jySbaPiM1MlX?e=9Pf7g4)
 
